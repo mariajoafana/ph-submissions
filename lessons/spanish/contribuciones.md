@@ -1,20 +1,20 @@
 ---
-title: Contribuye a The Programming Historian en españolr
+title: Contribuye a The Programming Historian en español
 layout: blank
 ---
 
 # Contribuye a The Programming Historian en español
 
-_The Programming Historian en español_ es posible gracias al esfuerzo de voluntarios, y por eso aceptamos cualquier tipo de contribución por parte de la comunidad hispánica. Te animamos a formar parte del proyecto traduciendo, escribiendo o revisando una lección, entre otras posiblidades. ¡Queremos escuchar tus ideas sobre cómo ampliar las vías de participación!
+_The Programming Historian en español_ es posible gracias al esfuerzo de voluntarios, y por eso aceptamos cualquier tipo de contribución por parte de la comunidad hispánica (mejor hispana? acá en EEUU es más común hablar de lo hispano que de lo hispánico). Te animamos a formar parte del proyecto traduciendo, escribiendo o revisando una lección, entre otras posiblidades. ¡Queremos escuchar tus ideas sobre cómo ampliar las vías de participación!
 
 ## Traduce una lección
 <figure>
 	<img src="../images/translator.png" width="180px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
 </figure>
 
-Si tienes dominio del inglés y del español, puedes traducir una lección ya publicada en _The programming Historian_. De esta manera participarás en la comunidad hispánica de las humanidades digitales y profundizarás en un lenguaje, método o tecnología. 
+Si tienes dominio del inglés y del español, puedes traducir una lección ya publicada en _The Programming Historian_. De esta manera participarás en la comunidad hispánica (hispana?) de las humanidades digitales y profundizarás en un lenguaje, método o tecnología. 
 
-Buscamos traducciones rigurosas y de lectura amena que tengan en cuenta el contexto hispánico y los recursos disponibles en nuestra comunidad. 
+Buscamos traducciones rigurosas y de lectura amena que tengan en cuenta el contexto hispánico (hispano?) y los recursos disponibles en nuestra comunidad. 
 
 ## Escribe una lección
 
@@ -24,7 +24,7 @@ Buscamos traducciones rigurosas y de lectura amena que tengan en cuenta el conte
 
 También aceptamos envíos de [nuevas lecciones] por parte de los autores.
 
-Escribir un tutorial es una de las mejores maneras de profundizar en un método o habilidad y participar de manera activa en la comunidad de humanidades digitales.
+Escribir un tutorial es una de las mejores maneras de profundizar en un método o habilidad y participar de manera activa en la comunidad global de humanidades digitales.
 
 Nuestro objetivo no es aceptar o rechazar artículos como una revista académica tradicional. Por el contrario, nuestro equipo editorial colaborará y te ayudará a mejorar la escritura de la lección y cómo plantearla de manera adecuada para que resulte clara y útil. Nuestro proceso de revisión contribuye a mejorar las lecciones y tu destreza a la hora de escribir sobre temas técnicos o especializados. Por favor, no dudes en leer más sobre el proceso de [envío].
 
