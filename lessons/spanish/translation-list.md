@@ -17,6 +17,7 @@
 | new-lessons-workflow | flujo-de-trabajo-nuevas-lecciones | ok | arojascastro |
 | reviewer-guidelines | guia-para-revisores | ok | arojascastro |
 | research | investigacion | ok | vgayolrs |
+| feedback | retroalimentacion | ok | mariajoafana
 
 ### Lessons - Lecciones
 
@@ -91,7 +92,7 @@
 
 | English | Español | translated | Commissioned |
 |  ------------- |  ------------- |  ------------- |  ------------- |
-| creating-network-diagrams-from-historical-sources | | no | no |
+| creating-network-diagrams-from-historical-sources | | in process | mariajoafana |
 
 #### Digital Exhibits and Augmented Reality
 
